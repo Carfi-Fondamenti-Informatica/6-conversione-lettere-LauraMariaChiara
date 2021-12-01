@@ -1,5 +1,5 @@
-#ifndef 6-conversione-lettere_LIB_H
-#define 6-conversione-lettere_LIB_H
+#ifndef ESERCITAZIONE6_LIB_H
+#define ESERCITAZIONE6_LIB_H
 
-#endif //6-conversione-lettere_LIB_H
+#endif //ESERCITAZIONE6_LIB_H
 bool conversione ( char &);
